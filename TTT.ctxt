@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=TTT(int)
+comment1.params=
+comment1.target=void\ main()
+comment10.params=r\ c
+comment10.target=void\ diagonalDownCheck(int,\ int)
+comment11.params=r\ c
+comment11.target=void\ horizontalCheck(int,\ int)
+comment2.params=
+comment2.target=void\ printMuffin()
+comment3.params=
+comment3.target=void\ newBoard()
+comment4.params=
+comment4.target=void\ makeBoard()
+comment5.params=
+comment5.target=void\ setLocationX()
+comment6.params=
+comment6.target=void\ setLocationO()
+comment7.params=r\ c
+comment7.target=void\ checkWinner(int,\ int)
+comment8.params=r\ c
+comment8.target=void\ verticalCheck(int,\ int)
+comment9.params=r\ c
+comment9.target=void\ diagonalUpCheck(int,\ int)
+numComments=12
